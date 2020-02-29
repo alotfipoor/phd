@@ -1,0 +1,386 @@
+date,name,bank_holiday
+1/1/2009,New Year's Day,1
+1/25/2009,Robert Burns Night (Burns Night),0
+1/27/2009,Holocaust Memorial Day,0
+2/14/2009,Valentines Day,0
+2/24/2009,Shrove Tuesday (Pancake Day),0
+2/25/2009,Ash Wednesday,0
+3/1/2009,St David's Day,0
+3/17/2009,St Patricks Day,0
+3/22/2009,Mothering Sunday (Mothers Day),0
+3/29/2009,British Summertime (BST) Begins,0
+4/1/2009,April Fool's Day,0
+4/9/2009,Maundy Thursday,0
+4/10/2009,Good Friday,1
+4/12/2009,Easter Sunday,0
+4/13/2009,Easter Monday,1
+4/21/2009,Queen Elizabeth's Birthday,0
+4/23/2009,St George's Day,0
+5/4/2009,May Day (Early May Bank Holiday),1
+5/25/2009,Spring Bank Holiday,1
+6/14/2009,Trooping the Colour,0
+6/21/2009,Father's Day,0
+7/14/2009,Emmeline Pankhurst Day,0
+7/15/2009,St.Swithun's Day (aka St. Swithin's),0
+8/31/2009,Summer Bank Holiday,1
+10/25/2009,British Summertime (BST) Ends,0
+10/31/2009,Halloween,0
+11/1/2009,All Saints Day,0
+11/5/2009,Guy Fawkes Night,0
+11/8/2009,Remembrance Day (Remembrance Sunday),0
+11/30/2009,St Andrew's Day,0
+12/25/2009,Christmas,1
+12/28/2009,Boxing Day,1
+1/1/2010,New Year's Day,1
+1/25/2010,Robert Burns Night (Burns Night),0
+1/27/2010,Holocaust Memorial Day,0
+2/14/2010,Valentines Day,0
+2/16/2010,Shrove Tuesday (Pancake Day),0
+2/17/2010,Ash Wednesday,0
+3/1/2010,St David's Day,0
+3/14/2010,Mothering Sunday (Mothers Day),0
+3/17/2010,St Patricks Day,0
+3/28/2010,British Summertime (BST) Begins,0
+4/1/2010,April Fool's Day,0
+4/1/2010,Maundy Thursday,0
+4/2/2010,Good Friday,1
+4/4/2010,Easter Sunday,0
+4/5/2010,Easter Monday,1
+4/21/2010,Queen Elizabeth's Birthday,0
+4/23/2010,St George's Day,0
+5/3/2010,May Day (Early May Bank Holiday),1
+5/31/2010,Spring Bank Holiday,1
+6/14/2010,Trooping the Colour,0
+6/20/2010,Father's Day,0
+7/14/2010,Emmeline Pankhurst Day,0
+7/15/2010,St.Swithun's Day (aka St. Swithin's),0
+8/30/2010,Summer Bank Holiday,1
+10/31/2010,British Summertime (BST) Ends,0
+10/31/2010,Halloween,0
+11/1/2010,All Saints Day,0
+11/5/2010,Guy Fawkes Night,0
+11/14/2010,Remembrance Day (Remembrance Sunday),0
+11/30/2010,St Andrew's Day,0
+12/27/2010,Boxing Day,1
+12/28/2010,Christmas,1
+1/2/2011,Hogmanay,0
+1/3/2011,New Year's Day,1
+1/25/2011,Robert Burns Night (Burns Night),0
+1/27/2011,Holocaust Memorial Day,0
+2/14/2011,Valentines Day,0
+3/1/2011,St David's Day,0
+3/8/2011,Shrove Tuesday (Pancake Day),0
+3/9/2011,Ash Wednesday,0
+3/17/2011,St Patricks Day,0
+3/27/2011,British Summertime (BST) Begins,0
+4/1/2011,April Fool's Day,0
+4/3/2011,Mothering Sunday (Mothers Day),0
+4/21/2011,Maundy Thursday,0
+4/21/2011,Queen Elizabeth's Birthday,0
+4/22/2011,Good Friday,1
+4/23/2011,St George's Day,0
+4/24/2011,Easter Sunday,0
+4/25/2011,Easter Monday,1
+5/2/2011,May Day (Early May Bank Holiday),1
+5/30/2011,Spring Bank Holiday,1
+6/14/2011,Trooping the Colour,0
+6/19/2011,Father's Day,0
+7/14/2011,Emmeline Pankhurst Day,0
+7/15/2011,St.Swithun's Day (aka St. Swithin's),0
+8/29/2011,Summer Bank Holiday,1
+10/30/2011,British Summertime (BST) Ends,0
+10/31/2011,Halloween,0
+11/1/2011,All Saints Day,0
+11/5/2011,Guy Fawkes Night,0
+11/13/2011,Remembrance Day (Remembrance Sunday),0
+11/30/2011,St Andrew's Day,0
+12/26/2011,Boxing Day,1
+12/27/2011,Christmas,1
+1/1/2012,Hogmanay,0
+1/2/2012,New Year's Day,1
+1/25/2012,Robert Burns Night (Burns Night),0
+1/27/2012,Holocaust Memorial Day,0
+2/14/2012,Valentines Day,0
+2/21/2012,Shrove Tuesday (Pancake Day),0
+2/22/2012,Ash Wednesday,0
+3/1/2012,St David's Day,0
+3/17/2012,St Patricks Day,0
+3/18/2012,Mothering Sunday (Mothers Day),0
+3/25/2012,British Summertime (BST) Begins,0
+4/1/2012,April Fool's Day,0
+4/5/2012,Maundy Thursday,0
+4/6/2012,Good Friday,1
+4/8/2012,Easter Sunday,0
+4/9/2012,Easter Monday,1
+4/21/2012,Queen Elizabeth's Birthday,0
+4/23/2012,St George's Day,0
+5/7/2012,May Day (Early May Bank Holiday),1
+5/28/2012,Spring Bank Holiday,1
+6/14/2012,Trooping the Colour,0
+6/17/2012,Father's Day,0
+7/14/2012,Emmeline Pankhurst Day,0
+7/15/2012,St.Swithun's Day (aka St. Swithin's),0
+8/27/2012,Summer Bank Holiday,1
+10/28/2012,British Summertime (BST) Ends,0
+10/31/2012,Halloween,0
+11/1/2012,All Saints Day,0
+11/5/2012,Guy Fawkes Night,0
+11/30/2012,St Andrew's Day,0
+12/25/2012,Christmas,1
+12/26/2012,Boxing Day,1
+1/1/2013,New Year's Day,1
+1/25/2013,Robert Burns Night (Burns Night),0
+1/27/2013,Holocaust Memorial Day,0
+2/12/2013,Shrove Tuesday (Pancake Day),0
+2/13/2013,Ash Wednesday,0
+2/14/2013,Valentines Day,0
+3/1/2013,St David's Day,0
+3/10/2013,Mothering Sunday (Mothers Day),0
+3/17/2013,St Patricks Day,0
+3/28/2013,Maundy Thursday,0
+3/29/2013,Good Friday,1
+3/31/2013,British Summertime (BST) Begins,0
+3/31/2013,Easter Sunday,0
+4/1/2013,April Fool's Day,0
+4/1/2013,Easter Monday,1
+4/21/2013,Queen Elizabeth's Birthday,0
+4/23/2013,St George's Day,0
+5/6/2013,May Day (Early May Bank Holiday),1
+5/27/2013,Spring Bank Holiday,1
+6/14/2013,Trooping the Colour,0
+6/16/2013,Father's Day,0
+7/14/2013,Emmeline Pankhurst Day,0
+7/15/2013,St.Swithun's Day (aka St. Swithin's),0
+8/26/2013,Summer Bank Holiday,1
+10/27/2013,British Summertime (BST) Ends,0
+10/31/2013,Halloween,0
+11/1/2013,All Saints Day,0
+11/5/2013,Guy Fawkes Night,0
+11/10/2013,Remembrance Day (Remembrance Sunday),0
+11/30/2013,St Andrew's Day,0
+12/25/2013,Christmas,1
+12/26/2013,Boxing Day,1
+1/1/2014,New Year's Day,1
+1/25/2014,Robert Burns Night (Burns Night),0
+1/27/2014,Holocaust Memorial Day,0
+2/14/2014,Valentines Day,0
+3/1/2014,St David's Day,0
+3/4/2014,Shrove Tuesday (Pancake Day),0
+3/5/2014,Ash Wednesday,0
+3/17/2014,St Patricks Day,0
+3/30/2014,British Summertime (BST) Begins,0
+3/30/2014,Mothering Sunday (Mothers Day),0
+4/1/2014,April Fool's Day,0
+4/17/2014,Maundy Thursday,0
+4/18/2014,Good Friday,1
+4/20/2014,Easter Sunday,0
+4/21/2014,Easter Monday,1
+4/21/2014,Queen Elizabeth's Birthday,0
+4/23/2014,St George's Day,0
+5/5/2014,May Day (Early May Bank Holiday),1
+5/26/2014,Spring Bank Holiday,1
+6/14/2014,Trooping the Colour,0
+6/15/2014,Father's Day,0
+7/14/2014,Emmeline Pankhurst Day,0
+7/15/2014,St.Swithun's Day (aka St. Swithin's),0
+8/25/2014,Summer Bank Holiday,1
+10/26/2014,British Summertime (BST) Ends,0
+10/31/2014,Halloween,0
+11/1/2014,All Saints Day,0
+11/5/2014,Guy Fawkes Night,0
+11/9/2014,Remembrance Day (Remembrance Sunday),0
+11/30/2014,St Andrew's Day,0
+12/25/2014,Christmas,1
+12/26/2014,Boxing Day,1
+1/1/2015,New Year's Day,1
+1/25/2015,Robert Burns Night (Burns Night),0
+1/27/2015,Holocaust Memorial Day,0
+2/14/2015,Valentines Day,0
+2/17/2015,Shrove Tuesday (Pancake Day),0
+2/18/2015,Ash Wednesday,0
+3/1/2015,St David's Day,0
+3/15/2015,Mothering Sunday (Mothers Day),0
+3/17/2015,St Patricks Day,0
+3/29/2015,British Summertime (BST) Begins,0
+4/1/2015,April Fool's Day,0
+4/2/2015,Maundy Thursday,0
+4/3/2015,Good Friday,1
+4/5/2015,Easter Sunday,0
+4/6/2015,Easter Monday,1
+4/21/2015,Queen Elizabeth's Birthday,0
+4/23/2015,St George's Day,0
+5/4/2015,May Day (Early May Bank Holiday),1
+5/25/2015,Spring Bank Holiday,1
+6/14/2015,Trooping the Colour,0
+6/21/2015,Father's Day,0
+7/14/2015,Emmeline Pankhurst Day,0
+7/15/2015,St.Swithun's Day (aka St. Swithin's),0
+8/31/2015,Summer Bank Holiday,1
+10/25/2015,British Summertime (BST) Ends,0
+10/31/2015,Halloween,0
+11/1/2015,All Saints Day,0
+11/5/2015,Guy Fawkes Night,0
+11/8/2015,Remembrance Day (Remembrance Sunday),0
+11/30/2015,St Andrew's Day,0
+12/25/2015,Christmas,1
+12/28/2015,Boxing Day,1
+1/1/2016,New Year's Day,1
+1/25/2016,Robert Burns Night (Burns Night),0
+1/27/2016,Holocaust Memorial Day,0
+2/9/2016,Shrove Tuesday (Pancake Day),0
+2/10/2016,Ash Wednesday,0
+2/14/2016,Valentines Day,0
+3/1/2016,St David's Day,0
+3/6/2016,Mothering Sunday (Mothers Day),0
+3/17/2016,St Patricks Day,0
+3/24/2016,Maundy Thursday,0
+3/25/2016,Good Friday,1
+3/27/2016,British Summertime (BST) Begins,0
+3/27/2016,Easter Sunday,0
+3/28/2016,Easter Monday,1
+4/1/2016,April Fool's Day,0
+4/21/2016,Queen Elizabeth's Birthday,0
+4/23/2016,St George's Day,0
+5/2/2016,May Day (Early May Bank Holiday),1
+5/30/2016,Spring Bank Holiday,1
+6/14/2016,Trooping the Colour,0
+6/19/2016,Father's Day,0
+7/14/2016,Emmeline Pankhurst Day,0
+7/15/2016,St.Swithun's Day (aka St. Swithin's),0
+8/29/2016,Summer Bank Holiday,1
+10/30/2016,British Summertime (BST) Ends,0
+10/31/2016,Halloween,0
+11/1/2016,All Saints Day,0
+11/5/2016,Guy Fawkes Night,0
+11/13/2016,Remembrance Day (Remembrance Sunday),0
+11/30/2016,St Andrew's Day,0
+12/26/2016,Boxing Day,1
+12/27/2016,Christmas,1
+1/1/2017,Hogmanay,0
+1/2/2017,New Year's Day,1
+1/25/2017,Robert Burns Night (Burns Night),0
+1/27/2017,Holocaust Memorial Day,0
+2/14/2017,Valentines Day,0
+2/28/2017,Shrove Tuesday (Pancake Day),0
+3/1/2017,Ash Wednesday,0
+3/1/2017,St David's Day,0
+3/17/2017,St Patricks Day,0
+3/26/2017,British Summertime (BST) Begins,0
+3/26/2017,Mothering Sunday (Mothers Day),0
+4/1/2017,April Fool's Day,0
+4/13/2017,Maundy Thursday,0
+4/14/2017,Good Friday,1
+4/16/2017,Easter Sunday,0
+4/17/2017,Easter Monday,1
+4/21/2017,Queen Elizabeth's Birthday,0
+4/23/2017,St George's Day,0
+5/1/2017,May Day (Early May Bank Holiday),1
+5/29/2017,Spring Bank Holiday,1
+6/14/2017,Trooping the Colour,0
+6/18/2017,Father's Day,0
+7/14/2017,Emmeline Pankhurst Day,0
+7/15/2017,St.Swithun's Day (aka St. Swithin's),0
+8/28/2017,Summer Bank Holiday,1
+10/29/2017,British Summertime (BST) Ends,0
+10/31/2017,Halloween,0
+11/1/2017,All Saints Day,0
+11/5/2017,Guy Fawkes Night,0
+11/12/2017,Remembrance Day (Remembrance Sunday),0
+11/30/2017,St Andrew's Day,0
+12/25/2017,Christmas,1
+12/26/2017,Boxing Day,1
+1/1/2018,New Year's Day,1
+1/25/2018,Robert Burns Night (Burns Night),0
+1/27/2018,Holocaust Memorial Day,0
+2/13/2018,Shrove Tuesday (Pancake Day),0
+2/14/2018,Ash Wednesday,0
+2/14/2018,Valentines Day,0
+3/1/2018,St David's Day,0
+3/11/2018,Mothering Sunday (Mothers Day),0
+3/17/2018,St Patricks Day,0
+3/25/2018,British Summertime (BST) Begins,0
+3/29/2018,Maundy Thursday,0
+3/30/2018,Good Friday,1
+4/1/2018,April Fool's Day,0
+4/1/2018,Easter Sunday,0
+4/2/2018,Easter Monday,1
+4/21/2018,Queen Elizabeth's Birthday,0
+4/23/2018,St George's Day,0
+5/7/2018,May Day (Early May Bank Holiday),1
+5/28/2018,Spring Bank Holiday,1
+6/14/2018,Trooping the Colour,0
+6/17/2018,Father's Day,0
+7/14/2018,Emmeline Pankhurst Day,0
+7/15/2018,St.Swithun's Day (aka St. Swithin's),0
+8/27/2018,Summer Bank Holiday,1
+10/28/2018,British Summertime (BST) Ends,0
+10/31/2018,Halloween,0
+11/1/2018,All Saints Day,0
+11/5/2018,Guy Fawkes Night,0
+11/30/2018,St Andrew's Day,0
+12/25/2018,Christmas,1
+12/26/2018,Boxing Day,1
+1/1/2019,New Year's Day,1
+1/25/2019,Robert Burns Night (Burns Night),0
+1/27/2019,Holocaust Memorial Day,0
+2/14/2019,Valentines Day,0
+3/1/2019,St David's Day,0
+3/5/2019,Shrove Tuesday (Pancake Day),0
+3/6/2019,Ash Wednesday,0
+3/17/2019,St Patricks Day,0
+3/31/2019,British Summertime (BST) Begins,0
+3/31/2019,Mothering Sunday (Mothers Day),0
+4/1/2019,April Fool's Day,0
+4/18/2019,Maundy Thursday,0
+4/19/2019,Good Friday,1
+4/21/2019,Easter Sunday,0
+4/21/2019,Queen Elizabeth's Birthday,0
+4/22/2019,Easter Monday,1
+4/23/2019,St George's Day,0
+5/6/2019,May Day (Early May Bank Holiday),1
+5/27/2019,Spring Bank Holiday,1
+6/14/2019,Trooping the Colour,0
+6/16/2019,Father's Day,0
+7/14/2019,Emmeline Pankhurst Day,0
+7/15/2019,St.Swithun's Day (aka St. Swithin's),0
+8/26/2019,Summer Bank Holiday,1
+10/27/2019,British Summertime (BST) Ends,0
+10/31/2019,Halloween,0
+11/1/2019,All Saints Day,0
+11/5/2019,Guy Fawkes Night,0
+11/10/2019,Remembrance Day (Remembrance Sunday),0
+11/30/2019,St Andrew's Day,0
+12/25/2019,Christmas,1
+12/26/2019,Boxing Day,1
+1/1/2020,New Year's Day,1
+1/25/2020,Robert Burns Night (Burns Night),0
+1/27/2020,Holocaust Memorial Day,0
+2/14/2020,Valentines Day,0
+2/25/2020,Shrove Tuesday (Pancake Day),0
+2/26/2020,Ash Wednesday,0
+3/1/2020,St David's Day,0
+3/17/2020,St Patricks Day,0
+3/22/2020,Mothering Sunday (Mothers Day),0
+3/29/2020,British Summertime (BST) Begins,0
+4/1/2020,April Fool's Day,0
+4/9/2020,Maundy Thursday,0
+4/10/2020,Good Friday,1
+4/12/2020,Easter Sunday,0
+4/13/2020,Easter Monday,1
+4/21/2020,Queen Elizabeth's Birthday,0
+4/23/2020,St George's Day,0
+5/4/2020,May Day (Early May Bank Holiday),1
+5/25/2020,Spring Bank Holiday,1
+6/14/2020,Trooping the Colour,0
+6/21/2020,Father's Day,0
+7/14/2020,Emmeline Pankhurst Day,0
+7/15/2020,St.Swithun's Day (aka St. Swithin's),0
+8/31/2020,Summer Bank Holiday,1
+10/25/2020,British Summertime (BST) Ends,0
+10/31/2020,Halloween,0
+11/1/2020,All Saints Day,0
+11/5/2020,Guy Fawkes Night,0
+11/8/2020,Remembrance Day (Remembrance Sunday),0
+11/30/2020,St Andrew's Day,0
+12/25/2020,Christmas,1
+12/28/2020,Boxing Day,1
